@@ -1,0 +1,5 @@
+Flask==2.0.1
+pywhatkit==5.2
+schedule==1.1.0
+selenium==4.1.0
+twilio==7.0.0
